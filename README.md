@@ -1,0 +1,1 @@
+# Insightful-Face-Detection-with-AWS-Rekognition
